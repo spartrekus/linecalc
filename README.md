@@ -1,0 +1,2 @@
+# linecalc
+Minimal line calculator
